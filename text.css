@@ -1,0 +1,63 @@
+
+P {
+	 font-family: arial;
+  }
+   .God{
+
+    font-weight: bold;
+    font-size: 18px;
+    width:250px;
+   line-height:22px;
+   margin-bottom: 5px;
+   }
+    .view{
+
+    font-size: 14px;
+    color: rgb(96,96,96);
+   margin-top: 0;
+    margin-bottom: 20px;
+
+   }
+      .j{
+
+    font-size: 14px;
+    color: rgb(96,96,96);
+                                                                                                                                                                                               
+    margin-top: 0;
+
+   }
+     .lord{
+
+    font-size: 14px;
+    color: rgb(96,96,96);
+    width: 270px;
+    line-height:18px;
+
+   }
+   .link{
+   margin-top: 50px;
+  font-size: 14px;
+  background-color: rgb(227,65,64);
+   color : white;
+  text-align: center;
+  padding-top:15px;
+  padding-bottom:15px;
+
+   }
+   .sp{
+   color :red;
+   }
+   .sp:hover{
+
+      text-decoration: underline;
+
+   }
+    .l{
+     color : blue;
+   cursor: pointer;
+   }
+   .l:hover{
+      text-decoration: underline;
+
+   }
+
